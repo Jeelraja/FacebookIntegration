@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FacebookIntegration</string>
+    <string name="facebook_app_id">250637082224811</string>
+    <string name="fb_login_protocol_scheme">fb250637082224811</string>
+
+
+    <!--implementation 'com.facebook.android:facebook-android-sdk:[4,5)'-->
+</resources>
